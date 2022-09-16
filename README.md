@@ -1,2 +1,2 @@
 # IIITB-Projects
-These are the projects which i worked as part of IIIT Diploma in Data Science
+These are the projects which i worked as part of IIIT Bangalore Diploma in Data Science course
